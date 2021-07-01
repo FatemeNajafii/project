@@ -1,10 +1,10 @@
 _**My first repository is project!**_
 
-#Project Name :
+###Project Name :
 
 Build a calculator
 
-#Description:
+###Description:
 
 A simple calculator that performs four basic operation.
 
